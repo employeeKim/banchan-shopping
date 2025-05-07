@@ -17,12 +17,12 @@ Spring Boot + JSP + MyBatis 기반의 반응형 반찬 쇼핑몰 웹 애플리�
 - 마이페이지: 주문 내역 조회
 
 # 프로젝트 구조
-src/
-├── controller/
-├── model/
-├── mapper/
-├── service/
-└── views/
+src
+  - controller
+  - model
+  - mapper
+  - service
+  - views
 
 
 # 개발 환경
