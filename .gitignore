@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.settings/
+.project
+.classpath
+*.iml
+
+# OS
+.DS_Store
+
+# 환경 설정
+application.properties
+
+# Windows Recycle Bin and system reset logs
+$Recycle.Bin/
+$Recycle.Bin/*
+$SysReset/
